@@ -1,0 +1,17 @@
+{
+  "name": "sgwweb",
+  "version": "0.1.0",
+  "authors": [
+    "sun <SX-sunjw@dtdream.com>"
+  ],
+  "description": "sgw前端",
+  "main": "./app/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "angularjs#~1.5.5",
+    "bootstrap": "~3.3.6"
+  }
+}
